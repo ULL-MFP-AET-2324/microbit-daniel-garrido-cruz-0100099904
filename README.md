@@ -3,9 +3,9 @@
 
 ## Edit this project
 ## Entrega
-[Organizacion](https://github.com/ull-mfp-aet-2324-alu0100099904)
-[Classroom](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904)
-[Asignacion Microbit](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904/assignments/tema-3-microbit)
+- [Organizacion](https://github.com/ull-mfp-aet-2324-alu0100099904)
+- [Classroom](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904)
+- [Asignacion Microbit](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904/assignments/tema-3-microbit)
 
 To edit this repository in MakeCode.
 
