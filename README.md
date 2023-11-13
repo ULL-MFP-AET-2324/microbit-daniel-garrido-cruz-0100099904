@@ -2,7 +2,6 @@
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
 ## Edit this project
-
 ## Entrega
 [Organizacion](https://github.com/ull-mfp-aet-2324-alu0100099904)
 [Classroom](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904)
