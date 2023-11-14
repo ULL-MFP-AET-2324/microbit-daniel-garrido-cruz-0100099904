@@ -3,6 +3,14 @@ makecode:
   platform: microbit
   home_url: https://makecode.microbit.org/
 theme: jekyll-theme-cayman
+asignatura: Aprendiza y Enseñanza de la Tecnologia
+lista_de_compra: 
+  -  Papas
+  -  Tomates
+  -  Huevos
+  -  Cebollas
+  -  Masa de arepas
+  -  Aceite
 include:
   - assets
   - README.md
